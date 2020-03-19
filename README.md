@@ -1,2 +1,3 @@
 # array-cardio-day-1
-For JS30 exercises 
+
+This readme file will be updated end of the project.
